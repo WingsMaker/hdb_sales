@@ -11,6 +11,7 @@ With the data extracted, it generates Animated bar charts
 ![image](https://user-images.githubusercontent.com/32192638/148336036-93f7a250-e8af-47f2-b1bb-a4e4d77fd6e9.png)
 
 how to create use this code ?
+
 [1]
 Creates a google app script project.
 
