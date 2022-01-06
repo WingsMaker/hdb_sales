@@ -5,7 +5,7 @@ function doGet(e) {
   if (e.parameter.page) {
     pg = e.parameter['page'];
   } else {
-    pg = 'Index'; // Index srxinfo
+    pg = 'Index'; 
   }
   webpage = HtmlService.createTemplateFromFile(pg).evaluate();
   return webpage;
