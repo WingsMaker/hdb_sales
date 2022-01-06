@@ -24,3 +24,5 @@ To make the script reads from google sheet.
 [4]
 Creates Index.html using the codes found in the github.
 
+For more, refers to :
+https://flourish.studio/examples/
