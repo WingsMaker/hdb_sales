@@ -1,5 +1,8 @@
 # hdb_sales
 
+Demo
+https://wingsmaker.github.io/Github/srx_info.html
+
 Visualisation using google app scripts and javascript inside html.
 
 It reads bar chart data from https://flo.uri.sh/visualisation/3957251/embed 
