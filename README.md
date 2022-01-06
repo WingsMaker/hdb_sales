@@ -29,3 +29,6 @@ Creates Index.html using the codes found in the github.
 
 For more, refers to :
 https://flourish.studio/examples/
+
+[5]
+Also the python version in the jupyter notebook format
